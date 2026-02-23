@@ -1,0 +1,2 @@
+# Substack
+Humanitarians AI Substacks 
